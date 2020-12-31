@@ -7,10 +7,12 @@ body{
 .middle-container{
     margin-top: 50px;
 }
-a{
-    margin: 10px;
-    font-size: 1.2rem;
-    font-family: 'Montserrat', sans-serif; ;
+
+.footer-link{
+    padding: 10px 30px;
+    color: rgba(13, 73, 73, 0.781);
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none; 
 }
 .style-two{
     border: 0;
@@ -126,5 +128,6 @@ h3{
 .bottom-container{
     background-color: rgba(23, 134, 134, 0.781);
     height: 100px;
-    margin-top: 80px;
+    padding-top: 50px;
+    margin-top: 50px;
 }
